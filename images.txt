@@ -1,2 +1,3 @@
+muen/postgres:9.6.8
 neosmemo/memos:stable
 ghcr.io/biliup/caution:latest
