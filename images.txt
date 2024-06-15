@@ -1,3 +1,4 @@
+muen/openresty:1.21.4.2-0-buster-fat
 p3terx/aria2-pro
 p3terx/ariang
 muen/postgres:9.6.8
