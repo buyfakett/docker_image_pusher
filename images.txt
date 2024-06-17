@@ -1,4 +1,4 @@
-ghcr.io/justwatchcom/sql_exporter
+burningalchemist/sql_exporter
 lanol/filecodebox:beta
 muen/openresty:1.21.4.2-0-buster-fat
 p3terx/aria2-pro
