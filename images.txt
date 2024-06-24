@@ -1,3 +1,4 @@
+certbot/dns-route53:v2.11.0
 certbot/certbot:v2.11.0
 lipanski/docker-static-website
 burningalchemist/sql_exporter
