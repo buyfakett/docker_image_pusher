@@ -1,3 +1,4 @@
+buyfakett/node:20-build_biji
 certbot/dns-route53:v2.11.0
 certbot/certbot:v2.11.0
 lipanski/docker-static-website
