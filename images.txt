@@ -1,3 +1,4 @@
+buyfakett/openresty:ubuntu_focal-ngx_waf
 buyfakett/node:20-build_biji
 certbot/dns-route53:v2.11.0
 certbot/certbot:v2.11.0
