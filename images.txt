@@ -1,3 +1,4 @@
+sickcodes/docker-osx:auto
 buyfakett/jenkins:2.472
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-metadata:latest
