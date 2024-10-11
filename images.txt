@@ -1,3 +1,5 @@
+python:3.13.0-alpine3.19
+buyfakett/openresty:ubuntu_focal-vts_0.2.2
 ghcr.io/open-webui/open-webui:ollama
 buyfakett/jenkins:2.475
 ghcr.io/monlor/xiaoya-alist:latest
