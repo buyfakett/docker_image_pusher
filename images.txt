@@ -1,3 +1,4 @@
+ghcr.io/dendianugerah/reubah
 quay.io/prometheus/node-exporter:v1.8.2
 ghcr.io/wg-easy/wg-easy
 kqstone/mt-photos-insightface-unofficial:latest
