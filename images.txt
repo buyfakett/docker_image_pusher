@@ -1,3 +1,4 @@
+buyfakett/jenkins:2.492-agent
 gogost/gost
 ghcr.io/nezhahq/nezha
 ghcr.io/dendianugerah/reubah
