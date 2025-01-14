@@ -8,7 +8,7 @@ buyfakett/ding_bot
 python:3.13.0-alpine3.19
 buyfakett/openresty:ubuntu_focal-vts_0.2.2
 ghcr.io/open-webui/open-webui:ollama
-buyfakett/jenkins:2.475
+buyfakett/jenkins:2.492
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-metadata:latest
 ghcr.io/monlor/xiaoya-embyserver:latest
