@@ -1,3 +1,4 @@
+ghcr.io/yosebyte/nodepass:latest
 buyfakett/jenkins:2.500
 buyfakett/lsyncd:s3-alpine
 buyfakett/jenkins:2.492-agent
