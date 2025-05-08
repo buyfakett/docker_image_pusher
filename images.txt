@@ -1,7 +1,7 @@
 ghcr.io/yosebyte/nodepass:latest
-buyfakett/jenkins:2.500
+buyfakett/jenkins:2.509
 buyfakett/lsyncd:s3-alpine
-buyfakett/jenkins:2.492-agent
+buyfakett/jenkins:2.509-agent
 gogost/gost
 ghcr.io/nezhahq/nezha
 ghcr.io/dendianugerah/reubah
@@ -10,7 +10,6 @@ ghcr.io/wg-easy/wg-easy
 kqstone/mt-photos-insightface-unofficial:latest
 buyfakett/ding_bot
 python:3.13.0-alpine3.19
-buyfakett/openresty:ubuntu_focal-vts_0.2.2
 ghcr.io/open-webui/open-webui:ollama
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-metadata:latest
