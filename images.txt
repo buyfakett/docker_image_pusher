@@ -1,7 +1,7 @@
 ghcr.io/yosebyte/nodepass:latest
-buyfakett/jenkins:2.509
+buyfakett/jenkins:2.510
 buyfakett/lsyncd:s3-alpine
-buyfakett/jenkins:2.509-agent
+buyfakett/jenkins:2.510-agent
 gogost/gost
 ghcr.io/nezhahq/nezha
 ghcr.io/dendianugerah/reubah
