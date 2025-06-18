@@ -1,5 +1,5 @@
+buyfakett/jenkins:2.515
 ghcr.io/yosebyte/nodepass:latest
-buyfakett/jenkins:2.510
 buyfakett/lsyncd:s3-alpine
 buyfakett/jenkins:2.510-agent
 gogost/gost
