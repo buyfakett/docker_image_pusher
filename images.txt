@@ -1,3 +1,4 @@
+buyfakett/biliup:v1.0.1
 buyfakett/jenkins:2.515
 ghcr.io/yosebyte/nodepass:latest
 buyfakett/lsyncd:s3-alpine
@@ -28,4 +29,3 @@ p3terx/aria2-pro
 p3terx/ariang
 muen/postgres:9.6.8
 neosmemo/memos:stable
-ghcr.io/biliup/caution:latest
